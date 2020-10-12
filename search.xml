@@ -40,6 +40,7 @@
 </blockquote>
 </blockquote>
 </blockquote>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">System.out.println(<span class="string">&quot;大气层&quot;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+<p><code>System.out.println(&quot;大气层&quot;);</code></p>
+]]></content>
   </entry>
 </search>
