@@ -21,7 +21,8 @@
   <entry>
     <title>markdown学习</title>
     <url>/2020/10/12/markdown%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一级标题-Remote"><a href="#一级标题-Remote" class="headerlink" title="一级标题[^Remote]"></a>一级标题[^Remote]</h1><p>标题脚注[^Remote]<br>[^Remote]: 这是脚注</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一级标题-Remote"><a href="#一级标题-Remote" class="headerlink" title="一级标题[^Remote]"></a>一级标题[^Remote]</h1><p>标题脚注[^az]</p>
+<p>[^az]: 啊 这</p>
 ]]></content>
   </entry>
 </search>
